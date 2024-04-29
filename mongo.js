@@ -1,3 +1,5 @@
+// NOTE: Ei käytössä, siirretty note.js moduuliin
+
 const mongoose = require('mongoose')
 
 if (process.argv.length < 3) {
